@@ -1,0 +1,35 @@
+html {
+    font-size: 100%;
+    background-color: rgba(178, 198, 211, 0.616);
+}
+h1 {
+    font-size: 50px;
+    color: red;
+}
+#first {
+    color: green;
+    font-size: 4rem;
+}
+.second{
+    color: rgb(172, 64, 166);
+    font-size: 3rem;
+}
+p {
+    color: black;
+}
+.box{
+    width: 800px;
+    height: 200px;
+    background-color: pink;
+    margin-top: 20px;
+}
+
+.btn {
+    font-size: 1.5rem;
+    padding: 0.5rem 0.5rem;
+    border-radius: 2.0rem;
+    color: #fff;
+    cursor: pointer;
+    background-color: rgb(51, 51, 51);
+    margin-top: 0.5rem;
+}
