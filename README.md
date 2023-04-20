@@ -1,2 +1,6 @@
-### [Hướng dẫn tạo website chúc mừng sinh nhật và upload lên host để gởi cho bạn bè || Part 1](https://youtu.be/I23yf5XIvpA)
-> Các bạn download source về và làm theo hương dẫn trong video nhé.
+# OurLoveStory
+We are both  programmers,  so I write some code to celebrate our 1st valentine's day.
+
+参考：
+
+http://hackerzhou.me/ex_love/
